@@ -1,3 +1,18 @@
+This repository was forked from nlpyang/PreSumm. 
+We use SAMSum dataset to experiment with PreSumm models. 
+
+Two notebooks is updated for data preparation and experiment.
+- the notebook for data preparation: SAMSum_preprocessing.ipynb
+- the notebook for experiment: SAMSum_train. 
+
+Please refer to original PreSumm github below. 
+
+
+
+
+
+
+
 # PreSumm
 
 **This code is for EMNLP 2019 paper [Text Summarization with Pretrained Encoders](https://arxiv.org/abs/1908.08345)**
